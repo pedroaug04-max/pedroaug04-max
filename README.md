@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Augusto 👋
 
-<!--
-**pedroaug04-max/pedroaug04-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** na UNIFOA (formatura no fim de 2026), com foco em **desenvolvimento web**. Estou em busca de **estágio ou trainee em TI**, remoto ou em Volta Redonda/RJ.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Venho construindo base em desenvolvimento web, segurança da informação e machine learning, e estou transformando meus estudos em projetos publicados aqui.
+
+## Áreas de estudo
+
+Desenvolvimento Web, Segurança da Informação, Machine Learning e Economia do Setor Público.
+
+## Projetos
+
+Os primeiros projetos estão sendo publicados. Acompanhe a aba de repositórios.
+
+## Contato
+
+E-mail: pedroaug.04@gmail.com

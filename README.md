@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Augusto 👋
+# Olá, eu sou o Pedro Augusto
 
 Estudante de **Sistemas de Informação** na UNIFOA (formatura no fim de 2026), com foco em **desenvolvimento web**. Estou em busca de **estágio ou trainee em TI**, remoto ou em Volta Redonda/RJ.
 
